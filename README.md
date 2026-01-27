@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+jayaprakash26+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Jayaprakash367+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -52,34 +52,34 @@
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jayaprakash26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=jayaprakash26&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jayaprakash367&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Jayaprakash367&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayaprakash367&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ## 🎯 Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayaprakash26&repo=project-name&theme=tokyonight&hide_border=true)](https://github.com/jayaprakash26/project-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayaprakash26&repo=another-project&theme=tokyonight&hide_border=true)](https://github.com/jayaprakash26/another-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jayaprakash367&repo=project-name&theme=tokyonight&hide_border=true)](https://github.com/Jayaprakash367/project-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jayaprakash367&repo=another-project&theme=tokyonight&hide_border=true)](https://github.com/Jayaprakash367/another-project)
 
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayaprakash26&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayaprakash367&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayaprakash26&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayaprakash367&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
 </div>
 
 ## 🌐 Connect with Me
@@ -88,7 +88,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayaprakash26)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayaprakash367)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
@@ -98,8 +98,8 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayaprakash26&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/jayaprakash26?style=social" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Jayaprakash367&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Jayaprakash367?style=social" alt="Followers"/>
 </div>
 
 <div align="center">

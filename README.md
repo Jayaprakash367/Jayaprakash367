@@ -27,38 +27,43 @@
       <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail" />
     </a>
   </p>
-
-  <!-- Player Status Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/STATUS-ONLINE%20%26%20CODING-33DAFF?style=for-the-badge&labelColor=101010" alt="Status" />
-    <img src="https://img.shields.io/badge/ENERGY-99%25-success?style=for-the-badge&labelColor=101010" alt="Energy" />
-    <img src="https://img.shields.io/badge/COFFEE-REQUIRED-orange?style=for-the-badge&labelColor=101010" alt="Coffee" />
-  </p>
 </div>
 
 <hr style="border: 2px solid #33DAFF; border-radius: 5px;">
 
 ## 👨‍💻 **About Me**
 
-<br>
-👋 Hi, I'm <strong>Jayaprakash</strong>! A dedicated developer who loves crafting high-performance applications and clean user experiences.
-<br><br>
-✨ <strong>What I Do:</strong>
-<ul>
-  <li>🔭 Currently focused on <strong>Scalable Web Systems & Cloud Architecture</strong></li>
-  <li>🌱 Deepening expertise in <strong>Advanced Java, DevOps, and Machine Learning</strong></li>
-  <li>💡 Passionate about <strong>Open Source</strong> and innovative engineering</li>
-  <li>👯 Always open to <strong>inspiring collaborations</strong> and new challenges</li>
-  <li>🎯 Goal: <strong>Building technology that solves real-world problems</strong></li>
-</ul>
-<br>
-⚡ <strong>Extra:</strong> I believe in continuous learning and pixel-perfect results!
+<table>
+  <tr>
+    <td width="60%">
+      <br>
+      👋 Hi, I'm <strong>Jayaprakash</strong>! A dedicated developer who loves crafting high-performance applications and clean user experiences.
+      <br><br>
+      ✨ <strong>What I Do:</strong>
+      <ul>
+        <li>🔭 Currently focused on <strong>Scalable Web Systems & Cloud Architecture</strong></li>
+        <li>🌱 Deepening expertise in <strong>Advanced Java, DevOps, and Machine Learning</strong></li>
+        <li>💡 Passionate about <strong>Open Source</strong> and innovative engineering</li>
+        <li>👯 Always open to <strong>inspiring collaborations</strong> and new challenges</li>
+        <li>🎯 Goal: <strong>Building technology that solves real-world problems</strong></li>
+      </ul>
+      <br>
+      ⚡ <strong>Extra:</strong> I believe in continuous learning and pixel-perfect results!
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNidGo1OWt6ZWR6amR2eXIzZ2p6NXV6Zm16eGZ6Z3B3eGZ6Z3B3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Developer at work" style="border-radius: 10px; border: 2px solid #33DAFF;"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="center">
-  <h2>⚒️ **Tech Stack**</h2>
+## � **Tech Stack**
 
+<div align="center">
+## ⚒️ **Tech Stack**
+
+<div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
@@ -147,16 +152,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayaprakash367&theme=tokyo-night&hide_border=true&area=true&bg_color=0,000000,130F40&color=33DAFF&line=33DAFF&point=ffffff" alt="Contribution Graph" width="100%"/>
 </div>
 
-<br/>
-
-<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jayaprakash367/Jayaprakash367/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" style="border-radius: 10px; border: 2px solid #33DAFF; padding: 10px; background-color: #000000;"/>
-  <br>
-  <i>✨ System Analyzing Contributions ✨</i>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" style="border-radius: 10px; border: 2px solid #33DAFF; padding: 10px; background-color: #000000;"/>
 </div>
-
-<br/>
 
 ## 🏆 **Achievements & Recognitions**
 
@@ -190,6 +188,24 @@
   <p>Visitor Count</p>
   <img src="https://profile-counter.glitch.me/Jayaprakash367/count.svg" alt="Visitor Count" />
 </div>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30"/>
+  </a>
+  <a href="https://instagram.com/your-handle">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/>
+  </a>
+</div>
+
+<hr style="border: 2px solid #33DAFF; border-radius: 5px;">
+
+<div align="center">
+  <h3><i>"Code is poetry, debug is reality"</i> 🚀</h3>
   <p>Visitor Count</p>
   <img src="https://profile-counter.glitch.me/Jayaprakash367/count.svg" alt="Visitor Count" />
 </div>

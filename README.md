@@ -1,249 +1,132 @@
 <div align="center">
 
-<!-- CUSTOM NEON HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20&text=JAYAPRAKASH&fontSize=80&fontAlignY=35&fontColor=fff&animation=twinkling&stroke=00D9FF&strokeWidth=2&desc=◣%20CODE%20ARCHITECT%20◥%20DIGITAL%20CRAFTSMAN%20◣%20INNOVATION%20ENGINEER%20◥&descSize=18&descAlignY=55"/>
-
-<!-- ANIMATED MATRIX EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%96%A0%E2%96%A0%E2%96%88+SYSTEM+INITIALIZED+%E2%96%88%E2%96%A0%E2%96%A0;%F0%9F%94%B9+Architect+of+Digital+Realms+%F0%9F%94%B9;%F0%9F%9A%80+Engineering+Tomorrow%E2%80%99s+Solutions+%F0%9F%9A%80;%E2%9A%A1+Where+Code+Meets+Creativity+%E2%9A%A1" alt="Typing Animation" />
-
-<!-- CUSTOM PARTICLE SYSTEM VISUALS -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- ═══════════════════ HEADER ═══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:0d1117&text=Jayaprakash&fontSize=75&fontAlignY=38&fontColor=58a6ff&animation=fadeIn&t&descSize=16&descAlignY=58&descColor=8b949e"/>
+<!-- ═══════════════════ TYPING INTRO ═══════════════════ -->
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Crafting+clean+%26+scalable+code+%E2%9C%A8;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80;Always+learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing" />
 
 <br/>
 
-<!-- MATRIX-STYLE STATS BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE%20%E2%9C%94-00ff00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000&color=00ff00"/>
-  <img src="https://komarev.com/ghpvc/?username=Jayaprakash367&style=for-the-badge&color=00D9FF&labelColor=000000&label=NEURAL+SCANS"/>
-  <img src="https://img.shields.io/github/followers/Jayaprakash367?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=000000&color=00D9FF"/>
-  <img src="https://img.shields.io/badge/IMPACT%20LEVEL-LEGENDARY-gold?style=for-the-badge&labelColor=000000&color=FFD700"/>
-</p>
-
-<!-- CYBER CONNECTION PORTALS -->
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/◣◥_LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="35"/>
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/◣◥_TWITTER-FOLLOW-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" height="35"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/◣◥_ENCRYPTED_MAIL-SEND-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="35"/>
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/◣◥_PORTFOLIO-ENTER-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" height="35"/>
-  </a>
+<!-- ═══════════════════ QUICK BADGES ═══════════════════ -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Jayaprakash367&style=flat-square&color=58a6ff&labelColor=0d1117&label=Profile+Views" height="22"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Jayaprakash367?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers" height="22"/>
 </p>
 
 </div>
 
-<br/>
-
-<!-- HOLOGRAPHIC DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> **◣ SYSTEM ARCHITECT ◥**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
+
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340"/>
+
+- 🔭 &nbsp;Building **full-stack applications** that solve real problems
+- 🌱 &nbsp;Deep-diving into **cloud architecture & system design**
+- 💡 &nbsp;Passionate about **clean code, performance & UX**
+- 🤝 &nbsp;Open to collaborating on **open-source & innovative projects**
+- ⚡ &nbsp;Philosophy: *"First solve the problem, then write the code"*
+
+<br clear="both"/>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;Tech Stack
 
 <div align="center">
+<table>
+<tr><td valign="top" width="33%">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   ⚡ ARCHITECT OF INNOVATION • BUILDER OF DIGITAL ECOSYSTEMS ⚡          ║
-║                                                                          ║
-║   ▸ Crafting Scalable Solutions Across the Stack                        ║
-║   ▸ Transforming Complex Problems into Elegant Code                     ║
-║   ▸ Passionate About Clean Architecture & Performance                   ║
-║   ▸ Open Source Advocate & Knowledge Sharer                             ║
-║   ▸ Constantly Evolving with Cutting-Edge Technologies                  ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
+<h3 align="center">Frontend (Website Design)</h3>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,js,html,css&perline=4&theme=dark" />
 </div>
 
-<br/>
+</td><td valign="top" width="33%">
 
-<!-- HOLOGRAPHIC DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **Technologies I Know**
-
+<h3 align="center">Backend (Server Programming)</h3>
 <div align="center">
-
-### **Frontend (Website Design)**
-
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css&perline=4&theme=dark" />
-
-### **Backend (Server Programming)**
-
 <img src="https://skillicons.dev/icons?i=nodejs,python,java,php&perline=4&theme=dark" />
+</div>
 
-### **Databases (Data Storage)**
+</td><td valign="top" width="33%">
 
+<h3 align="center">Databases (Data Storage)</h3>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=3&theme=dark" />
+</div>
 
-### **Tools & Deployment**
+</td></tr>
+<tr><td colspan="3">
 
+<h3 align="center">Tools & Deployment</h3>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,vscode,git&perline=4&theme=dark" />
+</div>
 
-<!-- SIMPLE TECH CAROUSEL -->
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=🔹+React+%7C+JavaScript+%7C+Node.js+🔹;🔹+Python+%7C+Java+%7C+PHP+🔹;🔹+MongoDB+%7C+PostgreSQL+%7C+MySQL+🔹;🔹+AWS+%7C+Docker+🔹" />
-
+</td></tr>
+</table>
 </div>
 
 <br/>
 
-<!-- HOLOGRAPHIC DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28px" height="28px"> **◣ FEATURED REPOSITORIES ◥**
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- FEATURED PROJECT CARDS -->
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Jayaprakash367?tab=repositories&sort=stargazers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jayaprakash367&repo=Jayaprakash367&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&description_lines_count=3" width="100%"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Jayaprakash367?tab=repositories&sort=stargazers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jayaprakash367&repo=Jayaprakash367&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&description_lines_count=3" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<a href="https://github.com/Jayaprakash367?tab=repositories">
-  <img src="https://img.shields.io/badge/◣◥_VIEW_ALL_REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="40"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- HOLOGRAPHIC DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32px"> **◣ COLLABORATION PROTOCOL ◥**
-
-<div align="center">
-
-```ascii
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║  💠 Open to Collaborations on Innovative Projects         ║
-║  💠 Available for Consulting & Technical Advisory          ║
-║  💠 Seeking Opportunities in Full-Stack & Cloud Architecture ║
-║  💠 Passionate About Mentoring & Knowledge Sharing         ║
-║                                                            ║
-║  "Let's build something extraordinary together"           ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<!-- ELITE CONTACT GRID -->
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <a href="https://linkedin.com/in/your-profile">
-        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60"/>
-        <br/><b>LinkedIn</b>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://twitter.com/your-handle">
-        <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="60"/>
-        <br/><b>Twitter</b>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="mailto:your-email@gmail.com">
-        <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="60"/>
-        <br/><b>Email</b>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://your-portfolio.com">
-        <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="60"/>
-        <br/><b>Portfolio</b>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=Jayaprakash367&hide_border=false&background=151b26&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=E2E8F0&dates=64748B&sideNums=E2E8F0&border=38BDF8" alt="Streak Stats" />
 
 <br/><br/>
 
-```ascii
-               ╔═══════════════════════════════════════════════════════════════════╗
-               ║                                                                   ║
-               ║   ⚡ "First solve the problem, then write the code." ⚡          ║
-               ║                                                                   ║
-               ║        🌟 Building the future, one commit at a time 🌟           ║
-               ║                                                                   ║
-               ╚═══════════════════════════════════════════════════════════════════╝
-```
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayaprakash367&bg_color=151b26&color=38bdf8&line=38bdf8&point=e2e8f0&area=true&area_color=38bdf8&hide_border=false&border_color=38bdf8" alt="Activity Graph" />
+
+</div>
 
 <br/>
 
-<!-- VISITOR TRACKING -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=4"/>
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://profile-counter.glitch.me/Jayaprakash367/count.svg" alt="Visitor Count"/>
-      <br/>
-      <b>◣ NEURAL SCANS ◥</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/Jayaprakash367?style=social" alt="Stars"/>
-      <br/>
-      <b>◣ STARS COLLECTED ◥</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/followers/Jayaprakash367?style=social" alt="Followers"/>
-      <br/>
-      <b>◣ COMMUNITY ◥</b>
-    </td>
-  </tr>
-</table>
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>&nbsp;
+<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height="30"/></a>&nbsp;
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>&nbsp;
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/></a>
+</div>
 
 <br/>
 
-<!-- EPIC FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,12,20&section=footer&reversal=false&textBg=false"/>
+<!-- ═══════════════════ SNAKE ═══════════════════ -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+</div>
 
-<!-- LAST UPDATED TIMESTAMP -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🕐_Last_Updated-February_2026-00D9FF?style=flat-square&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/⚡_Powered_By-Passion_%26_Coffee-FF6E00?style=flat-square&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/💻_Made_With-Love_%26_Code-00FF00?style=flat-square&labelColor=000000"/>
-</p>
+<br/>
 
-<!-- SECRET SIGNATURE -->
-<p align="center">
-  <sub><i>// Designed & Engineered by Jayaprakash | © 2026 | All Systems Operational ✓</i></sub>
-</p>
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:161b22,100:0d1117&section=footer"/>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=4000&pause=3000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%E2%9C%A6+Building+the+future%2C+one+commit+at+a+time+%E2%9C%A6" />
 </div>

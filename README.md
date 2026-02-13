@@ -8,7 +8,7 @@
 
 <br/>
 
-<!-- ═══════════════════ QUICK BADGES ═══════════════════ -->
+<!-- ═══════════════════ QUICK BADGES ════════════════ -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Jayaprakash367&style=flat-square&color=58a6ff&labelColor=0d1117&label=Profile+Views" height="22"/>
   &nbsp;&nbsp;
@@ -69,7 +69,9 @@
 
 <h3 align="center">Tools & Deployment</h3>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,vscode,git&perline=4&theme=dark" />
+
+![Tools & Deployment](https://skillicons.dev/icons?i=aws,docker,vscode,n8n,git&perline=4&theme=dark)
+
 </div>
 
 </td></tr>
